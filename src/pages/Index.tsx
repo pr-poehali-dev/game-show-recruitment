@@ -162,7 +162,7 @@ const Index = () => {
 
             <div className="text-center">
               <img
-                src="/img/d06f35db-573d-477f-9c84-eefdc5210ea7.jpg"
+                src="https://cdn.poehali.dev/files/1b0000a9-7214-463f-8097-bc89a14ab84f.jpg"
                 alt="Minecraft Trophy"
                 className="w-full max-w-md mx-auto rounded-lg shadow-2xl"
               />
