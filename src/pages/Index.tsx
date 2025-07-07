@@ -180,7 +180,7 @@ const Index = () => {
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               Заполните форму ниже, чтобы участвовать в отборе. Стоимость
-              участия — 2000₽
+              участия — 1390₽
             </p>
           </div>
 
@@ -280,7 +280,7 @@ const Index = () => {
                       </span>
                     </div>
                     <ul className="text-sm text-gray-400 space-y-1">
-                      <li>• Стоимость участия: 2000₽</li>
+                      <li>• Стоимость участия: 1390₽</li>
                       <li>• Случайный отбор из всех заявок</li>
                       <li>• Возврат средств при неотборе</li>
                       <li>• Игра проходит в один день</li>
@@ -292,7 +292,7 @@ const Index = () => {
                     className="w-full bg-[#FF6B35] hover:bg-[#E55A2B] text-white font-bold py-3 text-lg"
                   >
                     <Icon name="Send" className="mr-2" />
-                    Подать заявку и оплатить (2000₽)
+                    Подать заявку и оплатить (1390₽)
                   </Button>
                 </form>
               </CardContent>
