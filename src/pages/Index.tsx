@@ -44,7 +44,7 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="mb-8">
             <img
-              src="/img/46adb4bc-9744-43a0-a038-602d7df82c73.jpg"
+              src="https://cdn.poehali.dev/files/b2a26cb5-753f-4bde-9955-f61c3cbc7734.jpg"
               alt="Minecraft Gaming Competition"
               className="w-full max-w-2xl mx-auto rounded-lg shadow-2xl"
             />
